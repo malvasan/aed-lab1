@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1521873495 source:c:\users\win 8\documents\tercer año primera mitad\ordenacion\main.cpp
+	<iostream>
+
+1521914242 source:c:\users\win 8\documents\tercer año primera mitad\ordenacion\polimorfismo.cpp
+	<iostream>
+
+1522114416 source:c:\users\win 8\documents\tercer año primera mitad\aed\ordenacion\main.cpp
+	<iostream>
+
+1522113946 source:c:\users\win 8\documents\tercer año primera mitad\aed\ordenacion\polimorfismo.cpp
+	<iostream>
+
+1522113054 source:c:\users\win 8\documents\tercer año primera mitad\aed\ordenacion\functores.cpp
+	<iostream>
+
+1522118674 source:c:\users\alumno-e\desktop\aed-lab1-master\ordenacion\functores.cpp
+	<iostream>
+
+1522156391 source:c:\users\alumno-e\desktop\aed-lab1-master\ordenacion\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1522156439 source:c:\users\alumno-e\desktop\aed-lab1-master\ordenacion\polimorfismo.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
